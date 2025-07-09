@@ -10,8 +10,7 @@ This project demonstrates a simple fullstack application with a Python backend a
 
 ## Project Structure
 ```
-docker-tutorial/
-  my-project/
+dockerized-fullstack-app/
     backend/        # Python backend service
     frontend/       # Node.js frontend service
     docker-compose.yaml
