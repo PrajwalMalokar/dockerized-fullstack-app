@@ -27,7 +27,7 @@ dockerized-fullstack-app/
 1. Clone the repository:
    ```bash
    git clone <your-repo-url>
-   cd docker-tutorial/my-project
+   cd dockerized-fullstack-app
    ```
 2. Build and start the services:
    ```bash
